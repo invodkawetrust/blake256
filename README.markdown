@@ -1,7 +1,9 @@
 Package blake256
 =====================
 
-	import "github.com/dchest/blake256"
+**NOTE:** This is a fork/vendoring of http://github.com/dchest/blake256
+
+	import "github.com/decred/blake256"
 
 Package blake256 implements BLAKE-256 and BLAKE-224 hash functions (SHA-3
 candidate).
